@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "PiApproximation.",
+      "name": "PiApproximation",
       "setup": "cd src && javac exercise2/PiApproximation.java",
       "run": "cd src && java exercise2.PiApproximation",
       "input": "",
